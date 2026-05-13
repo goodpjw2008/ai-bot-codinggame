@@ -188,17 +188,7 @@ ai_bot_codinggame/
 
 ---
 
-## 5. 첨부 보고서
-
-| 파일 | 내용 |
-| --- | --- |
-| [[별첨1] AI_Bot_Ultimate_TicTacToe_개발 활동 보고서.pdf]([별첨1]%20AI_Bot_Ultimate_TicTacToe_개발%20활동%20보고서.pdf) | Ultimate Tic-Tac-Toe AI Bot 단독 개발 활동 보고서 |
-| [[별첨2] AI_Bot_Olymbits_개발 활동 보고서.pdf]([별첨2]%20AI_Bot_Olymbits_개발%20활동%20보고서.pdf) | Olymbits AI Bot 단독 개발 활동 보고서 |
-| [[별첨3] Algorithm_Clash_of_Code_활동 보고서.pdf]([별첨3]%20Algorithm_Clash_of_Code_활동%20보고서.pdf) | Algorithm 트랙(Clash of Code) 단독 활동 보고서 |
-
----
-
-## 6. Contact
+## 5. Contact
 
 - **Author**: 박진우
 - **Email**: goodpjw2008@gmail.com
