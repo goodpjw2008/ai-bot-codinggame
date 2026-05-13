@@ -12,6 +12,17 @@
 
 ---
 
+## 첨부 보고서
+
+| 파일 | 내용 |
+| --- | --- |
+| [AI봇 및 코딩게임 관련 AI 활동 보고서.pdf](AI봇%20및%20코딩게임%20관련%20AI%20활동%20보고서.pdf) | 전체보고서 요약 |
+| [[별첨1] AI_Bot_Ultimate_TicTacToe_개발 활동 보고서.pdf]([별첨1]%20AI_Bot_Ultimate_TicTacToe_개발%20활동%20보고서.pdf) | Ultimate Tic-Tac-Toe AI Bot 단독 개발 활동 보고서 |
+| [[별첨2] AI_Bot_Olymbits_개발 활동 보고서.pdf]([별첨2]%20AI_Bot_Olymbits_개발%20활동%20보고서.pdf) | Olymbits AI Bot 단독 개발 활동 보고서 |
+| [[별첨3] Algorithm_Clash_of_Code_활동 보고서.pdf]([별첨3]%20Algorithm_Clash_of_Code_활동%20보고서.pdf) | Algorithm 트랙(Clash of Code) 단독 활동 보고서 |
+
+---
+
 ## 핵심 성과 (★)
 
 ![CodinGame 종합 프로필 — AI · Coding Speed 동시 Legend 등급](images/00_main_legend_level.png)
