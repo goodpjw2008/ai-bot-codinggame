@@ -202,4 +202,3 @@ ai_bot_codinggame/
 
 - **Author**: 박진우
 - **Email**: goodpjw2008@gmail.com
-- **CodinGame ID**: [goodpjw2008](https://www.codingame.com/profile/goodpjw2008)
